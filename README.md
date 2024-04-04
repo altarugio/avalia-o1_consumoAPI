@@ -1,2 +1,3 @@
-# avaliação1_consumoAPI
-Consumindo API com a linguagem Python e a biblioteca requests.
+# Avaliação1_consumoAPI
+## Trabalho elaborado com consumo de API, com html e css, através dos scripts python e javascript.
+### FATEC - ARARAS.
